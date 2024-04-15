@@ -1,5 +1,5 @@
 # ecoRenovate
-A forward-thinking approach to energy management combining the accessibility of open data with the analytical prowess of artificial intelligence to empower neighborhoods in their journey towards energy independence and sustainability.
+A forward-thinking approach to energy management combining the accessibility of open data with the analytical prowess of artificial intelligence to empower neighborhoods in their journey towards energy independence and sustainability. This tool is developed as a Building AI course project.
 
 ## Summary
 The urgency to mitigate climate change has led to a focus on the built environment, a significant contributor to global energy consumption and greenhouse gas emissions. The challenge is to transform entire neighborhoods into sustainable, energy-efficient communities. This involves energy renovation at the neighborhood scale, transcending isolated building upgrades and fostering a collective energy identity. It leverages comprehensive retrofits, renewable energy sources, and smart energy management systems across multiple buildings. A pivotal component is energy sharing, involving the collective operation of renewable energy systems, allowing residents to access locally generated electricity at reduced rates. This fosters community ownership and active engagement in the energy transition. 
