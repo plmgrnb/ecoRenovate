@@ -36,7 +36,6 @@ AI algorithms can analyze vast amounts of open data to uncover hidden correlatio
 The synergy between open data and artificial intelligence paves the way for smarter energy management and more informed decision-making. By leveraging these technologies, communities can not only meet but potentially exceed energy reduction goals, contributing to a more sustainable and resilient energy future. This approach aligns with global sustainability initiatives and supports the transition towards low-carbon energy systems, essential for combating climate change and achieving environmental targets.
 
 ## Challenges
-
 While the tool leveraging open data and artificial intelligence for neighborhood-scale energy optimization presents numerous opportunities, it also faces several challenges that it won't be able to solve on its own:
 
 1. Buildings have unique architectural features and occupant behaviors that significantly impact energy consumption. The tool cannot address the human aspects of energy consumption, such as user preferences and resistance to change.  It may not fully account for these complex dynamics which require detailed, building-specific data, and even then, behavioral interventions are necessary to complement the technological solutions.
